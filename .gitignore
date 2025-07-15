@@ -275,6 +275,11 @@ ServiceFabricBackup/
 *- [Bb]ackup ([0-9]).rdl
 *- [Bb]ackup ([0-9][0-9]).rdl
 
+
+# Configuration
+**/appsettings*.json
+**/launchSettings.json
+
 # Microsoft Fakes
 FakesAssemblies/
 
